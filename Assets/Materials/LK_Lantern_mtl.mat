@@ -63,7 +63,7 @@ Material:
     - _Emission: 10
     - _Emissive: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.69
+    - _Glossiness: 0.361
     - _GlossyReflections: 1
     - _Metallic: 0.839
     - _Mode: 0
